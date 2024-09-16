@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **React native, jetpack compose**
 
-- 💬 Ask me about **Java,Kotlin,SwiftUI,React**
+- 💬 Ask me about **Java,Kotlin,React JS,NextJS**
 
 - 📫 How to reach me **chayanchowdhury@gmail.com**
 
